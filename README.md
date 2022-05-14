@@ -52,6 +52,6 @@ We are given the following columns in our data:
 ## Conclussion
 We used R2-score to understand which model fit our data better,
 out of all the models used
-Random Forest Regressor has the highest R2 which is - 0.958
+Random Forest Regressor has the highest R2 score which is - 0.958
 
 Hence we use Random Forest Regressor model for our dataset.
